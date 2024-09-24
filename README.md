@@ -1,2 +1,2 @@
 # Java Real World Projects
- Java Real World Projects, by BPB Publications
+ Java Real World Projects, by Paresh_kb
